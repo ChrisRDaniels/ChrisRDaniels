@@ -11,8 +11,8 @@ Welcome to my Github page! I am Chris and I am currently finishing my Full Stack
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Full Stack course at Lambda School.
-- Taking online courses about different languages, focused on game development currently with C#.
+- Finishing the Full Stack course at Lambda School.
+- Taking online courses about different languages, focused on game development currently with C# and JavaScript.
 
 
 #### :muscle: Things I am challenging myself with:
