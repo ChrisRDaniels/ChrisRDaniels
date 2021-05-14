@@ -23,7 +23,7 @@ Welcome to my Github page! I am Chris and I am currently finishing my Full Stack
 
 #### :computer: Programming languages and tools: 
 <p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRDaniels)](https://github.com/ChrisRDaniels/github-readme-stats)
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ChrisRDaniels&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
