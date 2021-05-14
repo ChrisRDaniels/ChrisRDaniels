@@ -16,7 +16,7 @@ Welcome to my Github page! I am Chris and I am currently finishing my Full Stack
 
 
 #### :muscle: Things I am challenging myself with:
-- Readjsuting my sleep schedule to stop being such a night owl
+- Re-adjusting my sleep schedule to stop being such a night owl
 - Coding at least 2-4 hours a day.
 - Exercising 3 days a week.
 - Improving my portfolio with new projects/challenges.
