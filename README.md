@@ -5,14 +5,15 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chrisrdaniels/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:https://www.linkedin.com/in/chrisrdaniels/)
 
-Welcome to my Github page! I am Chris and I am currently finishing my Full Stack course at Lambda School!  
+Welcome to my Github page! I am Chris and I am a graduate of the Full Stack course at Lambda School!  
 
 <img align="right" alt="img" src="https://ca.slack-edge.com/ESZCHB482-W012BRME24W-645f64cb5c9a-512" width="25%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Finishing the Full Stack course at Lambda School.
+- Creating new projects to add to my portfolio.(with a focus on React and Redux)
 - Taking online courses about different languages, focused on game development currently with C# and JavaScript.
+- Learning Network Penetration Testing and becoming more familiar with Linux in general.
 
 
 #### :muscle: Things I am challenging myself with:
